@@ -1,2 +1,5 @@
 # tensorflow_full_convolution
-Implements numpy's "full" padding algorithm convolution in tensorflow.
+
+Implements numpy's "full" padding mode convolution algorithm in tensorflow. It is experimental, so be careful.
+
+
